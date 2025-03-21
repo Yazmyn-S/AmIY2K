@@ -8652,7 +8652,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1122727980}
   - component: {fileID: 1122727981}
-  - component: {fileID: 1122727982}
   m_Layer: 0
   m_Name: FairyManager
   m_TagString: Untagged
@@ -8722,20 +8721,6 @@ MonoBehaviour:
   countdownTimer: {fileID: 1237671825}
   audioManager: {fileID: 326685066}
   gameQuipInterval: 30
---- !u!114 &1122727982
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1122727979}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1dcf188a7d344e3c9b17b37be0e1f44, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fairyAnimation: {fileID: 923461194}
-  idleFairy: {fileID: 7400000, guid: f8d5af4c16c0fca42935b17b59ab7e7d, type: 2}
 --- !u!114 &1145483549 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6876379383285512951, guid: f9478b5063166a1459ac1bb36919d25b, type: 3}
