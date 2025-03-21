@@ -8066,6 +8066,7 @@ GameObject:
   - component: {fileID: 923461192}
   - component: {fileID: 923461191}
   - component: {fileID: 923461193}
+  - component: {fileID: 923461194}
   m_Layer: 5
   m_Name: FairyImage
   m_TagString: Untagged
@@ -8152,6 +8153,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!111 &923461194
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923461189}
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Animation: {fileID: 7400000, guid: f8d5af4c16c0fca42935b17b59ab7e7d, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_UpdateMode: 0
+  m_CullingType: 0
 --- !u!1 &970536199
 GameObject:
   m_ObjectHideFlags: 0
